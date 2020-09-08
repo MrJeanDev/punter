@@ -59,4 +59,4 @@ Change the target to domain you are interested in:
 This software is mainly tested under Kali Linux, we recommend use this distribution.
 * Kali Linux, Python 2.7.13 - OK
 * Arch Linux, Python 2.7.13 - OK
-Currently Punter is [not supported under](not-supported.md)
+Currently Punter is [not supported under](not-supported.md
